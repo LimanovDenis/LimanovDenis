@@ -2,7 +2,7 @@
   <h1>
     <a href="animated">
       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=♫+Hi,+I'm+QA+Automation+Engineer+♫"/>
-    </a><br><br>
+    </a>
   </h1>
   <h1>
     <a href="animated">
@@ -20,7 +20,7 @@
   <p>
     <h2>
       <a href="animated">
-        <p><br><br>
+        <p>
           Social&#9749
         </p>
       <a href="https://twitter.com/BugaRush">
@@ -34,7 +34,7 @@
       </a>
       <a>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      </a><br><br><br>
+      </a>
       </a>   
     </h2>
   </p>
