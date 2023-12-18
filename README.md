@@ -50,8 +50,8 @@
     </a>   
   </h1>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimanovDenis&theme=github_dark" alt="Details" width="100%" height="100%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimanovDenis&theme=github_dark" alt="Language" width="49%" height="50%"/>&nbsp;
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LimanovDenis&theme=github_dark" alt="Stats" width="49%" height="50%"/>&nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimanovDenis&theme=github_dark" alt="Language" width="49%" height="99%"/>&nbsp;
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LimanovDenis&theme=github_dark" alt="Stats" width="49%" height="99%"/>&nbsp;
 </div>
 
 
