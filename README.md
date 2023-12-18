@@ -1,15 +1,24 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+QA+Automation+Engineer)](https://git.io/typing-svg)
-___
-
-## Languages and tools
-![Static Badge](https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=JAVA)
-![Static Badge](https://img.shields.io/badge/Selenide-252525?style=for-the-badge&logo=Selenium)
-![Static Badge](https://img.shields.io/badge/Cucumber-252525?style=for-the-badge&logo=Cucumber)
-
 <div id="header" align="center">
   <h1>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+QA+Automation+Engineer)](https://git.io/typing-svg)
+    <a href="animated">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+QA+Automation+Engineer"/>
+    </a>
   </h1>
+  <h2>
+    Languages and tools
+  </h2>
+  <p>
+    <a>
+      <img alt = "Java" src="https://img.shields.io/badge/Java-252525?style=for-the-badge&logo=JAVA"/>
+      <img alt = "Gherkin" src="https://img.shields.io/badge/Gherkin-252525?style=for-the-badge&logo=Gherkin"/>
+      <img alt = "Selenide" src="https://img.shields.io/badge/Selenide-252525?style=for-the-badge&logo=Selenium"/>
+      <img alt = "Cucumber" src="https://img.shields.io/badge/Cucumber-252525?style=for-the-badge&logo=Cucumber"/>
+      <img alt = "MySQL" src="https://img.shields.io/badge/MySQL-252525?style=for-the-badge&logo=MySQL"/>
+      <img alt = "PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=PostgreSQL"/>
+      <img alt = "Postman" src="https://img.shields.io/badge/Postman-252525?style=for-the-badge&logo=Postman"/>
+      <img alt = "Jmeter" src="https://img.shields.io/badge/Jmeter-252525?style=for-the-badge&logo=Jmeter"/>
+    <a/>
+  </p>
 </div>
 
 
