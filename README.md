@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines= Hi+,+I+'+m+a+beginner+AQA+Engineer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+,+I+'+m+a+beginner+AQA+Engineer)](https://git.io/typing-svg)
 ___
 
 ## Languages and tools
