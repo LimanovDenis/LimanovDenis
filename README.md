@@ -6,6 +6,11 @@ ___
 ![Static Badge](https://img.shields.io/badge/Selenide-252525?style=for-the-badge&logo=Selenium)
 ![Static Badge](https://img.shields.io/badge/Cucumber-252525?style=for-the-badge&logo=Cucumber)
 
+<div id="header" align="center">
+  <h1>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+QA+Automation+Engineer)](https://git.io/typing-svg)
+  </h1>
+</div>
 
 
 
