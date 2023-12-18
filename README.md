@@ -1,12 +1,14 @@
 <div id="header" align="center">
   <h1>
     <a href="animated">
-      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+QA+Automation+Engineer"/>
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=♫+Hi,+I'm+QA+Automation+Engineer+♫"/>
     </a>
   </h1>
-  <h2>
-    Languages and tools
-  </h2>
+  <h1>
+    <a href="animated">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=&#128421+&#128421+&#128421+Language+and+Tools+&#128421+&#128421+&#128421"/>
+    </a>   
+  </h1>
   <p>
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
@@ -14,11 +16,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" title="Cucumber" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" width="60" height="60"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" width="50" height="50"/>&nbsp;
     </a>
   </p>
   <p>
     <h2>
-      Social
+      <a href="animated">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=&#9749+&#9749+&#9749+&#9749+Social+&#9749+&#9749+&#9749+&#9749"/>
+      </a>   
     </h2>
     <a href="https://twitter.com/BugaRush">
       <img alt = "Twitter"  src="https://img.shields.io/badge/Twitter-252525?style=for-the-badge&logo=X"/>
@@ -39,9 +44,14 @@
 
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimanovDenis&theme=github_dark" alt="Details"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimanovDenis&theme=github_dark" alt="Language"/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LimanovDenis&theme=github_dark" alt="Stats"/>
+    <h1>
+    <a href="animated">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=&#128421+&#128421+&#128421+Statistics+and+metrics+&#128421+&#128421+&#128421"/>
+    </a>   
+  </h1>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimanovDenis&theme=github_dark" alt="Details" width="100%" height="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LimanovDenis&theme=github_dark" alt="Language" width="49%" height="50%"/>&nbsp;
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LimanovDenis&theme=github_dark" alt="Stats" width="49%" height="50%"/>&nbsp;
 </div>
 
 
